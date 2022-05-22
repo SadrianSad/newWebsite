@@ -207,7 +207,7 @@ header h1 {
 header .header-img {
   position: relative;
   height: 100vh;
-  background-image: url("../img/trees.jpg");
+  background-image: url("img/trees.jpg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
